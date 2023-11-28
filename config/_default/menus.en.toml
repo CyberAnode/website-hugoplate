@@ -10,6 +10,12 @@ weight = 1
 name = "About"
 url = "about/"
 weight = 2
+hasChildren = true
+
+[[main]]
+parent = "About"
+name = "FAQ"
+url = "faq/"
 
 [[main]]
 name = "Elements"
