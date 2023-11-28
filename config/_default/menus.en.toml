@@ -14,8 +14,13 @@ hasChildren = true
 
 [[main]]
 parent = "About"
+name = "About Us"
+url = "about/"
+
+[[main]]
+parent = "About"
 name = "FAQ"
-url = "faq/"
+url = "about/faq/"
 
 [[main]]
 name = "Elements"
