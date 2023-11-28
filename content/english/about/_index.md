@@ -8,10 +8,10 @@ draft: false
 
 |  | |
 | --- | --- |
-| Tiring of being asked ALL THE TIME what cyber companies Shanna recommends for various pieces of cyber security work, she took to Slack to ask around. Shanna looked at [AUCyberscape](https://aucyberscape.com/) only to find that the last updates looked to have been in 2020 and the site was no longer maintained. She also found that searching the site for specific products and services was actually quite difficult. So the idea was born to create a directory of Australian owned and run cyber security companies that was easy to search, find the services and products you want easily and these companies be vetted and validated. If you are up on your OSINT, you will see Shanna bought this domain `cyberanode` sometime ago and has finally found it a home.   |
-
+| Tired of being asked ALL THE TIME what cyber companies Shanna recommends for various pieces of cyber security work, she took to Slack to ask around. Shanna looked at [AUCyberscape](https://aucyberscape.com/) only to find that the last updates looked to have been in 2020 and the site was no longer maintained. She also found that searching the site for specific products and services was actually quite difficult. So the idea was born to create a directory of Australian owned and run cyber security companies that was easy to search, find the services and products you want easily and these companies be vetted and validated. If you are up on your OSINT, you will see Shanna bought this domain `cyberanode` sometime ago and has finally found it a home.   |
 
 <h2 class="h3 mb-6">Meet the team</h2>
+
 |  | |
 | --- | --- |
 | **Shanna Daly 🦄** | [Fancy4n6](https://linktr.ee/shannadaly) <br> With over 20 years of experience Shanna is an expert in incident response and digital forensics. Shanna’s expertise has been called upon during countless data breach investigations, giving her an in-depth understanding of the security implementations that work, and the ones that don’t. Co-Founder of our favourite online conference, ComfyCon. Favourite 📚: The Hacker and the State, Ben Buchanan|
