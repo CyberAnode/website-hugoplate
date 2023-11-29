@@ -3,7 +3,6 @@ title: "Frequently asked questions"
 meta_title: "Frequently asked questions"
 description: "Frequently asked questions about CyberAnode"
 ---
-
 <details>
    <summary>What is CyberAnode and why.</summary>
     
