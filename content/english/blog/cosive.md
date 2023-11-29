@@ -34,8 +34,6 @@ website: "https://www.cosive.com"
 image: "images/company_logos/cosive.png"
 ---
 
-{{< image src="images/company_logos/cosive.png" caption="" alt="Cosive" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Cosive  webp="false" >}}
-
 <i class="fa fa-building" style="font-size:18px;"></i> level 10, Tower 4, World Trade Centre, 611 Flinders St, Docklands, VIC
 
 <br><i class="fa fa-flag" style="font-size:18px;"></i> Australian owned
