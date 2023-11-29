@@ -1,8 +1,6 @@
 ---
-type: posts
 title: "Cosive Pty Ltd"
 headquarters: VIC
-
 products:
 - Fraud Prevention
 - Threat Intelligence Products
@@ -33,10 +31,8 @@ youtube: cosive
 github: Cosive
 website: "https://www.cosive.com"
 
-image: "/assets/company_logos/cosive.png"
+image: "images/company_logos/cosive.png"
 ---
-<!-- This is here now, but should move into another section so it can be on a side bar or laid out better, but for now its here -->
-
 
 
 <i class="fa fa-building" style="font-size:18px;"></i> level 10, Tower 4, World Trade Centre, 611 Flinders St, Docklands, VIC
