@@ -1,7 +1,7 @@
 ---
 title: "About CyberAnode"
 meta_title: "About"
-description: "About CyberAnode and teh team."
+description: "About CyberAnode and the team."
 image: "/images/avatar.png"
 draft: false
 ---
