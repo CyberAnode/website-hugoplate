@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Register your company for free"
-    link: "register"
+    link: "about/register/"
 
 # Features
 features:
