@@ -32,7 +32,12 @@
             </li>
           </ul>
           <div class="content mb-10">
-            {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "mx-auto mb-6" "Size" "300x200") }}
+            {{ $image:= .Params.image }}
+            {{ if $image }}
+            <div class="mb-10">
+              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded" "Size" "200x200") }}
+            </div>
+            {{ end }}
             {{ .Content }}
           </div>
           <div class="row items-start justify-between">
