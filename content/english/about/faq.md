@@ -3,7 +3,7 @@ title: "Frequently asked questions"
 meta_title: "Frequently asked questions"
 description: "Frequently asked questions about CyberAnode"
 ---
-{{ .TableOfContents }}
+{{ toc }}
 
 
 ### What is CyberAnode and why.
