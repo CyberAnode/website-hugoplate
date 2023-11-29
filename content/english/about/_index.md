@@ -6,9 +6,7 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-|  | |
-| --- | --- |
-| Tired of being asked ALL THE TIME what cyber companies Shanna recommends for various pieces of cyber security work, she took to Slack to ask around. Shanna looked at [AUCyberscape](https://aucyberscape.com/) only to find that the last updates looked to have been in 2020 and the site was no longer maintained. She also found that searching the site for specific products and services was actually quite difficult. So the idea was born to create a directory of Australian owned and run cyber security companies that was easy to search, find the services and products you want easily and these companies be vetted and validated. If you are up on your OSINT, you will see Shanna bought this domain `cyberanode` sometime ago and has finally found it a home.   |
+Tired of being asked ALL THE TIME what cyber companies Shanna recommends for various pieces of cyber security work, she took to Slack to ask around. Shanna looked at [AUCyberscape](https://aucyberscape.com/) only to find that the last updates looked to have been in 2020 and the site was no longer maintained. She also found that searching the site for specific products and services was actually quite difficult. So the idea was born to create a directory of Australian owned and run cyber security companies that was easy to search, find the services and products you want easily and these companies be vetted and validated. If you are up on your OSINT, you will see Shanna bought this domain `cyberanode` sometime ago and has finally found it a home.
 
 <h3 class="h3 mb-6">Meet the team</h3>
 
