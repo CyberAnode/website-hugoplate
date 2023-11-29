@@ -13,19 +13,14 @@ weight = 2
 hasChildren = true
 
 [[main]]
-parent = "About"
-name = "About Us"
-url = "about/"
-
-[[main]]
-parent = "About"
 name = "FAQ"
 url = "about/faq/"
+weight = 3
 
 [[main]]
 name = "Company directory"
 url = "companies/"
-weight = 3
+weight = 4
 
 # footer menu
 [[footer]]
