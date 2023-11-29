@@ -24,7 +24,7 @@ url = "about/faq/"
 
 [[main]]
 name = "Company directory"
-url = "blog/"
+url = "companies/"
 weight = 3
 
 # footer menu
@@ -32,11 +32,6 @@ weight = 3
 name = "About"
 url = "about/"
 weight = 1
-
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
 
 [[footer]]
 name = "Privacy Policy"
