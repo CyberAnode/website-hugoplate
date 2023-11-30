@@ -83,6 +83,7 @@ button = "I Accept"
 ######################## sidebar widgets #########################
 [widgets]
 sidebar = ["products", "services"]
+sidebar_single = ["products-single"]
 
 
 # google map

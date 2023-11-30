@@ -2,7 +2,7 @@
 {{ if isset site.Taxonomies "products" }}
   {{ if not (eq (len site.Taxonomies.products) 0) }}
     <div class="mb-8">
-      <h5 class="mb-6">products</h5>
+      <h5 class="mb-6">Products</h5>
       <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-6">
         <ul>
           {{ range $name, $items := site.Taxonomies.products }}

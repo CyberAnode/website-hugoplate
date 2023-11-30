@@ -35,15 +35,6 @@ image: "images/company_logos/cosive.png"
 address: "level 10, Tower 4, World Trade Centre, 611 Flinders St, Docklands, VIC"
 summary: "We provide repeatable solutions to Australasia's toughest security challenges. ​Our customers are high-profile targets with the toughest security challenges imaginable: four of the top six banks in Australia, critical infrastructure providers, technology companies, and governments."
 ---
-
-
-
-<i class="fa fa-building" style="font-size:18px;"></i> 
-
-<br><i class="fa fa-flag" style="font-size:18px;"></i> Australian owned
-
-<br><i class="fa fa-exchange" style="font-size:18px;"></i> Private company
-
 ## Who we are
 
 We provide repeatable solutions to Australasia's toughest security challenges. ​Our customers are high-profile targets with the toughest security challenges imaginable: four of the top six banks in Australia, critical infrastructure providers, technology companies, and governments.
