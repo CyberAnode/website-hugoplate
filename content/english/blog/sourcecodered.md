@@ -1,23 +1,18 @@
 ---
 title: "SourceCodeRED"
-image: "/posts/images/sourcecodered.png"
+image: "images/company_logos/sourcecodered.png"
 services:
 - Secure Software Development
 - Penetration Testing
-
 email: 
 twitter: 
 linkedin: 
 youtube: 
 github: 
 website: "https://sourcecodered.com"
+address: "16 Nexus Way, Southport, QLD 4213"
+summary: "SourceCodeRED is the next generation of DevSecOps.  We provide a complete, end-to-end DevSecOps experience for our customers.  Our team can build modern cloud-enabled web applications, design secure CI/CD pipelines and manage complex application runtimes. "
 ---
-
-:office: 16 Nexus Way, Southport, QLD 4213
-
-:flags: Australian owned
-:flags: Private company
-
 ## Overview
 
 SourceCodeRED is the next generation of DevSecOps.  We provide a complete, end-to-end DevSecOps experience for our customers.  Our team can build modern cloud-enabled web applications, design secure CI/CD pipelines and manage complex application runtimes. 

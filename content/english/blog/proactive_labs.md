@@ -1,7 +1,6 @@
 ---
 title: "Proactive Labs Pty Ltd"
-image: "/posts/images/proactive_labs.jpg"
-
+image: "images/company_logos/proactive_labs.jpg"
 services: [
     "Penetration testing",
 ]
@@ -12,20 +11,15 @@ linkedin:
 youtube: 
 github: 
 website: "https://www.proactivelabs.com"
+address: "Suite 78 M Centre 11 Palmerston Lane Manuka ACT 2603"
+summary: "Proactive Labs is a boutique cyber security company, offering a different perspective on cyber issues. We aim to help our clients in their domain, by offering our experience in ours. We are highly skilled and experienced cyber security professionals offering comprehensive, yet boutique cyber security services to businesses and organisations."
 ---
 
-
-
-:office: Suite 78 M Centre 11 Palmerston Lane Manuka ACT 2603
-
-:flags: Australian owned
-:flags: Private company
-
-## Overview
+## Who we are
 
 Proactive Labs is a boutique cyber security company, offering a different perspective on cyber issues. We aim to help our clients in their domain, by offering our experience in ours. We are highly skilled and experienced cyber security professionals offering comprehensive, yet boutique cyber security services to businesses and organisations. With extensive professional experience, we possess an in-depth understanding of the dynamic Canberra market. To cater to its specific and unique needs, we offer tailored and customised solutions. We provide services such as penetration testing, threat emulation, code review, and bespoke research.
 
-## Cyber security solutions
+## What we do
 
 * Penetration Testing
 * Web application penetration testing
@@ -37,5 +31,5 @@ Proactive Labs is a boutique cyber security company, offering a different perspe
 * Code Review
 * Red Team engagements
 
-## Services descriptions
+## Our services
 ### [Penetration Testing](https://www.proactivelabs.com.au/services/index.html)

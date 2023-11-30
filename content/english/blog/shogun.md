@@ -1,34 +1,23 @@
 ---
 title: "Shogun Cybersecurity Pty Ltd"
-image: "/posts/images/shogun.png"
+image: "images/company_logos/shogun.png"
 services:
 - Security Consulting
 - Governance, Risk, and Compliance
-
 email: 
 twitter: 
 linkedin: 
 youtube: 
 github: 
 website: "https://shogun.net.au/"
+address: "49 Chetwynd St, North Melbourne, Vic, 3051"
+summary: "Shogun Cybersecurity is an independent, Melbourne based consultancy founded in 2015 by consummate problem solver and outspoken industry personality, Corch. We work with organisations of all sizes, but are best known for our focus on supporting small and mid-sized clients, including not-for-profits, professional associations, and scale-ups." 
 ---
-
-# Shogun Cybersecurity Pty Ltd
-
-<img src="shogun.png" width="300" />
-
-:office: 49 Chetwynd St, North Melbourne, Vic, 3051
-
-:flags: Australian owned
-:flags: Private company
-
-:small_blue_diamond: [Visit site]()
-
-## Overview
+## Who we are
 
 Shogun Cybersecurity is an independent, Melbourne based consultancy founded in 2015 by consummate problem solver and outspoken industry personality, [Corch](https://www.linkedin.com/in/corch/). We work with organisations of all sizes, but are best known for our focus on supporting small and mid-sized clients, including not-for-profits, professional associations, and scale-ups.  We also love to partner with other service providers including law firms, IT services, system integrators, and even other cybersecurity service providers, to both augment their own capabilities and deliver shared services and solutions to mutual clients.
 
-## Cyber security solutions
+## What we do
 
 With broad experience across industry verticals and cybersecurity practice areas, Shogun Cybersecurity advises clients on all manner of cybersecurity issues and problems, and offers professional services on a wide range of technologies, platforms, and solutions:
 * Strategic planning and advice
@@ -40,7 +29,7 @@ With broad experience across industry verticals and cybersecurity practice areas
 * Third party assurance
 * Cloud security (AWS/Azure)
 
-## Services descriptions
+## Our services
 ### [vCISO and Executive advisory services](https://shogun.net.au/#what-we-do)
 
 Not every organisation can justify their own CISO, but every organisation needs strong cybersecurity leadership. Our Virtual CISO service provides business leaders direct, on demand access to expert cybersecurity advice, as well and on going support with cybersecurity strategic planning and execution, all for a fixed monthly fee. For clients with less demanding needs, we offer one-off and consultations and ad-hoc advice for reasonable hourly rates.

@@ -1,33 +1,28 @@
 ---
 title: "SecureStack Pty Ltd"
-image: "/posts/images/securestack-horizontal.png"
+image: "images/company_logos/securestack-horizontal.png"
 products:
 - Application Security
 partners:
 - SecureStack
-
 email: 
 twitter: 
 linkedin: 
 youtube: 
 github: 
 website: "https://securestack.com"
+address: "16 Nexus Way, Southport, QLD 4213, AUSTRALIA"
+summary: "SecureStack is a software supply chain security SaaS-based platform. SecureStack was founded in 2017 and is headquartered on the Gold Coast.  Our comprehensive application security platform automates security for our customers source code, cloud resources and web endpoints with an easy to use SaaS platform."
 ---
-
-:office: 16 Nexus Way, Southport, QLD 4213, AUSTRALIA
-
-:flags: Australian owned
-:flags: Private company
-
-## Overview
+## Who we are
 
 SecureStack is a software supply chain security SaaS-based platform. SecureStack was founded in 2017 and is headquartered on the Gold Coast.  Our comprehensive application security platform automates security for our customers source code, cloud resources and web endpoints with an easy to use SaaS platform.  In addition to providing automated security tooling, we also provide our customers real-time continuous compliance, evidence collection, and the world’s most comprehensive and useful software bill of materials (SBOM).  We help customers building in the cloud, but we also have an agent that extends the power of our SaaS platform into the on-premise and protected environments. 
 
-## Cyber security solutions
+## What we do
 
 Australian organizations are sick of managing ten different solutions to address their application and cloud security requirements. SecureStack integrates multiple different security tools into one platform:  Software Composition Analysis (SCA), Cloud Security Posture Managment (CSPM), web vulnerability, secret scanning and container scanning. All of these tools are integrated together into one cohesive vulnerability management platform.  Our platform integrates with the tools your teams are already using like GitHub, GitLab, Bitbucket, Jira, Azure DevOps, Slack and more.  And best of all SecureStack delivers all of this power via our SaaS platform, our CLI agent, or directly in our customers CI/CD pipelines.
 
-## Product descriptions
+## Our products
 ### [- Application Security](https://securestack.com/)
 
 Our comprehensive Application Security platform ticks all the boxes:  source code, web assets and cloud stack.  One platform, one dashboard and one subscription.

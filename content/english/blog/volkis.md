@@ -1,27 +1,21 @@
 ---
 title: "Volkis Pty Ltd"
-image: "/posts/images/Volkis_Logo.svg"
+image: "images/company_logos/Volkis_Logo.svg"
 services:
 - Penetration testing
 - Security Education & Training
 - Governance, Risk, and Compliance
 - Security Assurance Services
-
 email: 
 twitter: 
 linkedin: 
 youtube: 
 github: 
 website: "https://www.volkis.com.au"
+address: "PO Box 55, Crows Nest NSW 1585"
+summary: "We're a group of hackers who want to keep those around us safe in the online world by doing what we love. With bespoke penetration tests and red teams, we aim to protect our friends, community, clients, and their customers, so that they can keep doing what they love. We focus on our niche rather than full stack security, so we can help clients get a measurable increase in security against realistic attacks, instead of theoretical scenarios."
 ---
-
-:office: PO Box 55, Crows Nest NSW 1585
-
-:flags: Australian owned
-:flags: Private company
-
-
-## Overview
+## Who we are
 
 We're a group of hackers who want to keep those around us safe in the online world by doing what we love. With bespoke penetration tests and red teams, we aim to protect our friends, community, clients, and their customers, so that they can keep doing what they love. We focus on our niche rather than "full stack security", so we can help clients get a measurable increase in security against realistic attacks, instead of theoretical scenarios.
 
@@ -31,7 +25,7 @@ Transparency is one of our core values (check out our [Handbook](https://handboo
 
 (We also make awesome T-shirts and stickers!)
 
-## Cyber security solutions
+## What we do
 
 We focus on the 3 high-level things we love doing:
 
@@ -39,7 +33,7 @@ We focus on the 3 high-level things we love doing:
 2. Security Reviews: "If an attacker somehow lands in one of your environments, how do we make their life hell?" Security reviews aim to answer that question by highlighting areas of improvement in various environments. These improvements will either make it too frustrating or too difficult for attackers, while giving you time to detect them. We offer reviews of Active Directory, Microsoft 365, Windows 11/MacOS Standard Operating Environments, AWS, Azure Cloud, and Kubernetes.
 3. Governance, Risk, and Compliance (GRC): Have a plan for your security. We help with ACSC Essential 8, ISO27001, NIST, PCI-DSS, and general security strategies.
 
-## Services descriptions
+## Our services
 ### [Penetration Testing](https://www.volkis.com.au/services/penetration-testing/)
 Service_category: Penetration testing
 We use the same hacking tools and techniques as attackers do to find as many vulnerabilities at possible. These vulnerabilities are always tied back to business impact to provide a realistic assessment of your security posture. We perform the following types regularly, but are not restricted to just these:

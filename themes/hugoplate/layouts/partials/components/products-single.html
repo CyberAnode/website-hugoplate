@@ -1,0 +1,38 @@
+<!-- products -->
+{{ $products:= .Params.products }}
+{{ if $products }}
+<h5 class="mb-6">Product Categories</h5>
+{{ range $i,$p:= $products }}
+<li class="inline-block">
+  <i class="fas fa-caret-right mr-2"></i>
+  {{ . }}
+</li>
+{{ end }}
+{{ end }}
+</li>
+
+<!-- services -->
+{{ $services:= .Params.services }}
+{{ if $services }}
+<h5 class="mb-6">Service Categories</h5>
+{{ range $i,$p:= $services }}
+<li class="inline-block">
+  <i class="fas fa-caret-right mr-2"></i>
+  {{ . }}
+</li>
+{{ end }}
+{{ end }}
+</li>
+
+<!-- partners -->
+{{ $partners:= .Params.partners }}
+{{ if $partners }}
+<h5 class="mb-6">Partner companies</h5>
+{{ range $i,$p:= $partners }}
+<li class="inline-block">
+  <i class="fas fa-caret-right mr-2"></i>
+  {{ . }}
+</li>
+{{ end }}
+{{ end }}
+</li>

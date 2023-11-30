@@ -4,47 +4,43 @@
       <div class="row justify-center">
         <article class="lg:col-10">
 
-          <!-- moving the image below
+<!-- heading is on its own -->
+  <h1 class="mb-6">{{ .Title }}</h1>
+
+<!-- After the heading we have 3 equal columns for the company listing information-->
+  <div class="container">
+    <div class="row gx-5">
+
+<!-- First column for the company logo -->
+      <div class="lg:col-4">
+        <div class="content mb-10">
           {{ $image:= .Params.image }}
           {{ if $image }}
-            <div class="mb-10">
-              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded" "Size" "200x200") }}
-            </div>
+          {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "rounded") }}
           {{ end }}
-          -->
+        </div>
+      </div>
 
-          <h1 class="h2 mb-4">
-            {{ .Title }}
-          </h1>
+<!-- next column for contact information -->
+      <div class="lg:col-4">
+        {{ partial "components/contact" . }}
+      </div>
 
+<!-- product and services single sidebar column -->
+      <div class="lg:col-4">
+        {{ partial "components/products-single" . }}
+      </div>
+    </div>
+  </div>
 
+<!-- this is the main content from the company page -->
+      <div class="content mb-10">
+        {{ .Content }}
+      </div>
 
-
-
-
-
-          <div class="content mb-10">
-            {{ $image:= .Params.image }}
-            {{ if $image }}
-              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "rounded" "Size" "200x200") }}
-            {{ end }}
-            {{ .Content }}
-          </div>
           <div class="row items-start justify-between">
             <div class="lg:col-5 mb-10 flex items-center lg:mb-0">
-              <h5 class="mr-3">{{ i18n "tags" }} :</h5>
-              <ul>
-                {{ $tags:= .Params.tags }}
-                {{ range $i,$p:= $tags }}
-                  <li class="inline-block">
-                    <a
-                      class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white"
-                      href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}/">
-                      {{ . | humanize }}
-                    </a>
-                  </li>
-                {{ end }}
-              </ul>
+
             </div>
             <div class="lg:col-4 flex items-center">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false) }}

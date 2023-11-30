@@ -1,7 +1,7 @@
 ---
 title: "Illuminate Security Pty Ltd"
-image: "/posts/images/illuminate_security.png"
-
+image: "images/company_logos/illuminate_security.png"
+headquarters: NSW
 products: [
     "Managed Detection & Response",
 ]
@@ -10,15 +10,10 @@ twitter:
 linkedin: 
 youtube: 
 github: 
-website: 
+website: "https://www.illuminatesecurity.com"
+address: "PO Box 470 Concord NSW 2137"
+summary: "We are the pioneers in community powered managed detection & response services. Through detection bounty programs your organisation can achieve scalable, reliable, effective and sustainable cyber threat detection capabilities."
 ---
-
-:office: PO Box 470 Concord NSW 2137
-
-:flags: Australian owned
-:flags: Private company
-
-:small_blue_diamond: [Visit site](https://www.illuminatesecurity.com)
 
 ## Who we are
 
@@ -33,7 +28,7 @@ We are the pioneers in community powered managed detection & response services. 
 
 The worlds leading Detection Bounty Program Platform enabling organisations to gain access to the expertise needed to defend themselves and proactively identify adversaries.
 
-## Services descriptions
+## Our services
 
 ### [Crowd Powered Managed Detection & Response](https://www.illuminatesecurity.com/platform-use-cases)
 
