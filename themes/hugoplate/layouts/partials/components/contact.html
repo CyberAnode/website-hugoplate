@@ -1,6 +1,7 @@
 <h5 class="mb-6">Contact</h5>
 
 <div class="content mb-10">
+  <ul>
 <li class="inline-block">
   {{ $address:= .Params.address }}
   {{ if $address }}
@@ -13,7 +14,8 @@
   {{ $email:= .Params.email }}
   {{ if $email }}
     <i class="fa fa-envelope mr-2"></i>
-    <a href="mailto:{{ $email }}" title="Email">{{ $email }}</a>
+    <a href="mailto:{{ $email }}" title="Email">
+      {{ $email }}</a>
   {{ end }}
 </li>
 
@@ -41,27 +43,31 @@
   {{ end }}
 </li>
 
-<li class="inline-block">
+
   {{ $github:= .Params.github }}
   {{ if $github }}
+<li class="inline-block">
   <i class="fab fa-github mr-2"></i>
   <a href="https://www.github.com/{{ $github }}" title="github">{{ $github }}</a>
   {{ end }}
 </li>
 
-<li class="inline-block">
+
   {{ $facebook:= .Params.facebook }}
   {{ if $facebook }}
+<li class="inline-block">
   <i class="fab fa-facebook mr-2"></i>
   <a href="https://www.facebook.com/{{ $facebook }}" title="facebook">{{ $email }}</a>
   {{ end }}
 </li>
 
+
+{{ $website:= .Params.website }}
+{{ if $website }}
 <li class="inline-block">
-  {{ $website:= .Params.website }}
-  {{ if $website }}
-  <i class="fas fa-bookmark mr-2"></i>
-  <a href="{{ $website }}" title="website">{{ $website }}</a>
-  {{ end }}
+<i class="fas fa-bookmark mr-2"></i><a href="{{ $website }}" title="website">
+  {{ $website }}</a>
+{{ end }}
 </li>
+</ul>
 </div>

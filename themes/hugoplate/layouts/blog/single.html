@@ -16,7 +16,7 @@
         <div class="content mb-10">
           {{ $image:= .Params.image }}
           {{ if $image }}
-          {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "rounded") }}
+          {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "rounded" "Size" "362x") }}
           {{ end }}
         </div>
       </div>

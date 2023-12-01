@@ -1,6 +1,6 @@
 ---
 title: "Volkis Pty Ltd"
-image: "images/company_logos/Volkis_Logo.svg"
+image: "images/company_logos/Volkis_Logo.png"
 services:
 - Penetration testing
 - Security Education & Training

@@ -4,7 +4,6 @@ image: "images/company_logos/proactive_labs.jpg"
 services: [
     "Penetration testing",
 ]
-
 email: 
 twitter: 
 linkedin: 
