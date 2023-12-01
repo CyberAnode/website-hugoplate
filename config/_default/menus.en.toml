@@ -10,7 +10,6 @@ weight = 1
 name = "About"
 url = "about/"
 weight = 2
-hasChildren = true
 
 [[main]]
 name = "FAQ"
@@ -21,6 +20,19 @@ weight = 3
 name = "Company directory"
 url = "blog/"
 weight = 4
+hasChildren = true
+
+[[main]]
+parent = "Company directory"
+name = "Products listing"
+url = "products/"
+weight = 1
+
+[[main]]
+parent = "Company directory"
+name = "Services listing"
+url = "services/"
+weight = 2
 
 # footer menu
 [[footer]]
