@@ -11,7 +11,7 @@ youtube:
 github: 
 facebook: sheainfosec
 website: "https://sheasecurity.com.au/"
-image: "images/company_logos/Shea_security.png"
+image: "images/company_logos/shea_security.png"
 address: "Level 4, 152 Elizabeth Street, Melbourne, VIC, 3000"
 summary: "Based in Melbourne and founded in 2018. Our work involves testing the security of computer systems, applications and networks. Additionally, we provide education and training to software developers and IT professionals based on our testing and research. We have considerable experience in penetration testing (pentesting) for some of Australia's most widely known companies. This includes working closely with security engineers and managers as they continuously adjust and improve the security of their systems."
 ---
