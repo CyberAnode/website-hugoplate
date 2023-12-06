@@ -13,7 +13,7 @@ services:
 - Security Operations Centre (SOC)
 
 email: "helpdesk@opsys.com.au"
-linkedin: "https://www.linkedin.com/company/opsys-australia"
+linkedin: "opsys-australia"
 website: "https://opsys.com.au/"
 address: "83 Sturt Street Adelaide"
 image: "images/company_logos/OpSys.png"
