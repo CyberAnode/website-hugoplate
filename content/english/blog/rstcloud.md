@@ -4,7 +4,7 @@ headquarters: "NSW"
 products:
 - Threat Intelligence
 
-email: info@rstcloud.net
+email: "info@rstcloud.net"
 twitter: "rst_cloud"
 linkedin: "rst-cloud"
 youtube: "rst-cloud"
