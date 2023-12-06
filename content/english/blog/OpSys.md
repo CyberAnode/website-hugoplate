@@ -17,7 +17,7 @@ linkedin: "https://www.linkedin.com/company/opsys-australia"
 website: "https://opsys.com.au/"
 address: "83 Sturt Street Adelaide"
 image: "images/company_logos/OpSys.png"
-summary: "Established in 2016 as a leader in sovereign cyber security, OpSys Australia is dedicated to Australian-led innovation in digital security. Our team, operating across Australia, New Zealand, and Singapore, specializes in advanced cyber security solutions, protecting businesses from emerging threats within a sovereign framework. We are committed to developing cutting-edge security strategies and technologies, ensuring robust protection against evolving cyber challenges."
+summary: "Established in 2016 as a leader in sovereign cyber security, OpSys Australia is dedicated to Australian-led innovation in digital security. Our team, operating across Australia, New Zealand, and Singapore, specialises in advanced cyber security solutions, protecting businesses from emerging threats within a sovereign framework. We are committed to developing cutting-edge security strategies and technologies, ensuring robust protection against evolving cyber challenges."
 ---
 ## Who we are                     
 
