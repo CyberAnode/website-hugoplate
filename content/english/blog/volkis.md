@@ -1,5 +1,6 @@
 ---
 title: "Volkis Pty Ltd"
+headquarters: "NSW"
 image: "images/company_logos/Volkis_Logo.png"
 services:
 - Penetration testing
