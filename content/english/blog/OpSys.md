@@ -1,7 +1,7 @@
 ---
 title: "OpSys Australia"
 headquarters: "SA"               
-reseller:                       
+partners:                       
 - Proofpoint
 - 3CX
 - Metallic

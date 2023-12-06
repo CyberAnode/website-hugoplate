@@ -3,8 +3,9 @@ title: "Cosive Pty Ltd"
 headquarters: VIC
 products:
 - Fraud Prevention
-- Threat Intelligence Products
+- Threat Intelligence
 - Firewalls and Network Security
+- Encryption Products
 partners: 
 - Crowdstrike
 - EclecticIQ
