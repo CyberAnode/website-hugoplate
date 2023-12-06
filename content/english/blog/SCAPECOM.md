@@ -4,9 +4,9 @@ headquarters: VIC
 products:
 - Breach & Attack Simulation
 email: hello@attackify.com
-twitter: https://twitter.com/attackify
-linkedin: https://www.linkedin.com/company/scapecom/
-youtube: https://www.youtube.com/@attackify2934
+twitter: attackify
+linkedin: scapecom
+youtube: @attackify2934
 github: 
 facebook: 
 image: "images/company_logos/ATTACKIFY_Logo.png"
