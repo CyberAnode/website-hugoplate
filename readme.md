@@ -7,6 +7,8 @@ NEWS
 New Companies Added in the last 24 hours:
 * SCAPECOM IT Security Solutions - https://cyberanode.com/blog/scapecom/
 * Zerosource - https://cyberanode.com/blog/zerosource/
+* OpSys Australia - https://cyberanode.com/blog/opsys/
+* RSTCloud - https://cyberanode.com/blog/rstcloud/
 
 ***
 ## 2023-11-14
