@@ -8,9 +8,9 @@ services:
 - Penetration Testing
 
 email: hello@zerosource.io
-linkedin: https://au.linkedin.com/company/zerosource
-gitlab: https://gitlab.com/zerosource
-github: https://github.com/zerosource-io
+linkedin: zerosource
+gitlab: zerosource
+github: zerosource-io
 website: https://zerosource.io
 image: "images/company_logos/Zerosource.png"
 address: 
