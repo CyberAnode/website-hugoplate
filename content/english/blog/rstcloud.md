@@ -56,7 +56,7 @@ This API employs over 110 rulesets and incorporates 12 GB of individual exceptio
 
 An API to check individual values if they are a suspicious or malicious indicator (IP, Domain, URL, Hash). Offering dynamic scoring and automatic decay of outdated indicators, the service ensures fair request rate with low cost.
 
-Ideal for real-time checks in SOAR or be integration into custom applications for online user connection scrunity.
+Ideal for real-time checks in SOAR or be integration into custom applications for online user connection scrutiny.
 
 
 ### [RST Whois API](https://www.rstcloud.com/rst-whois-api/)
