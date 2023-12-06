@@ -3,10 +3,10 @@ title: "SCAPECOM IT Security Solutions"
 headquarters: VIC
 products:
 - Breach & Attack Simulation
-email: hello@attackify.com
+email: "hello@attackify.com"
 twitter: attackify
 linkedin: scapecom
-youtube: "@attackify2934"
+youtube: attackify2934
 github: 
 facebook: 
 image: "images/company_logos/ATTACKIFY_Logo.png"

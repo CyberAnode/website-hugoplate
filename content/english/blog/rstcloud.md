@@ -5,12 +5,12 @@ products:
 - Threat Intelligence
 
 email: info@rstcloud.net
-twitter: rst_cloud
-linkedin: rst-cloud
-youtube: rst-cloud
+twitter: "rst_cloud"
+linkedin: "rst-cloud"
+youtube: "rst-cloud"
 github: rstcloud
-facebook: rstcloud.online
-website: https://www.rstcloud.com/
+facebook: "rstcloud.online"
+website: "https://www.rstcloud.com/"
 address: "60 Martin Place, Sydney NSW 2000"
 image: "images/company_logos/rstcloud.png"
 ---

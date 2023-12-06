@@ -1,17 +1,16 @@
 ---
 title: "Zerosource"
-headquarters: NSW
+headquarters: "NSW"
 services:                     
 - Secure Software Development
 - Security Assurance Services
 - Security Consulting
 - Penetration Testing
-
-email: hello@zerosource.io
+email: "hello@zerosource.io"
 linkedin: zerosource
 gitlab: zerosource
-github: zerosource-io
-website: https://zerosource.io
+github: "zerosource-io"
+website: "https://zerosource.io"
 image: "images/company_logos/Zerosource.png"
 address: 
 summary: "We are an Australian cybersecurity consultancy specialising in Application Security and DevSecOps. Our mission is to provide the secure foundations for your products and services so you can focus on what's most important, creating value for your customers. Together, we can confidently deliver secure software, whether it’s web, cloud, IoT, mobile or embedded."
