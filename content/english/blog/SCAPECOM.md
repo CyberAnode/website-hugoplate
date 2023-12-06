@@ -6,7 +6,7 @@ products:
 email: hello@attackify.com
 twitter: attackify
 linkedin: scapecom
-youtube: @attackify2934
+youtube: "@attackify2934"
 github: 
 facebook: 
 image: "images/company_logos/ATTACKIFY_Logo.png"
