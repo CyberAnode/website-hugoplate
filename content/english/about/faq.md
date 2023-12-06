@@ -16,9 +16,9 @@ There are some companies that are going to have a large number of diverse produc
 
 ### How can I get my Company listed?
 To register, companies must meet the following criteria:
-    1. Be Australian owned.
-    2. Deliver cyber security products or services, category definitions can be found <a href="https://github.com/CyberAnode/Registrations/blob/main/categories.md" target="_blank">here </a>.
-    3. Hold a valid Australian Business Number (ABN), operate in Australia, and employ staff in an Australian location.
+1. Be Australian owned.
+2. Deliver cyber security products or services, category definitions can be found <a href="https://github.com/CyberAnode/Registrations/blob/main/categories.md" target="_blank">here </a>.
+3. Hold a valid Australian Business Number (ABN), operate in Australia, and employ staff in an Australian location.
 
 If you meet this criteria you can create a fork of the [Registrations](https://github.com/CyberAnode/Registrations) repository, in there you will find a template directory and file - YourCompany. Use these as a guide to creating your page. When the pull request is received by the team the information will be reviewed and we'll come back with any further questions that we might have.
 
