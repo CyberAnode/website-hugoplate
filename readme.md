@@ -2,7 +2,7 @@
 
 ## 2023-12-06
 NEWS
-* New webiste was spun up over the weekend, few fixes and issues, dark and light mode and images etc, but directory is functional and searchable.
+* New website was spun up over the weekend, few fixes and issues, dark and light mode and images etc, but directory is functional and searchable.
 
 New Companies Added in the last 24 hours:
 * SCAPECOM IT Security Solutions - https://cyberanode.com/blog/scapecom/
