@@ -1,5 +1,6 @@
 ---
 title: "Zerosource"
+Country1: Australia
 headquarters: "NSW"
 services:                     
 - Secure Software Development
@@ -12,7 +13,7 @@ gitlab: zerosource
 github: "zerosource-io"
 website: "https://zerosource.io"
 image: "images/company_logos/Zerosource.png"
-address: 
+address1: 
 summary: "We are an Australian cybersecurity consultancy specialising in Application Security and DevSecOps. Our mission is to provide the secure foundations for your products and services so you can focus on what's most important, creating value for your customers. Together, we can confidently deliver secure software, whether it’s web, cloud, IoT, mobile or embedded."
 ---
 
