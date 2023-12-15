@@ -1,5 +1,6 @@
 ---
 title: "Proactive Labs Pty Ltd"
+Country1: Australia
 image: "images/company_logos/proactive_labs.jpg"
 services: [
     "Penetration testing",
@@ -10,7 +11,7 @@ linkedin:
 youtube: 
 github: 
 website: "https://www.proactivelabs.com"
-address: "Suite 78 M Centre 11 Palmerston Lane Manuka ACT 2603"
+address1: "Suite 78 M Centre 11 Palmerston Lane Manuka ACT 2603"
 summary: "Proactive Labs is a boutique cyber security company, offering a different perspective on cyber issues. We aim to help our clients in their domain, by offering our experience in ours. We are highly skilled and experienced cyber security professionals offering comprehensive, yet boutique cyber security services to businesses and organisations."
 ---
 

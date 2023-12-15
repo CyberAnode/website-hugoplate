@@ -1,5 +1,6 @@
 ---
 title: "SecureStack Pty Ltd"
+Country1: Australia
 image: "images/company_logos/securestack-horizontal.png"
 products:
 - Application Security
@@ -11,7 +12,7 @@ linkedin:
 youtube: 
 github: 
 website: "https://securestack.com"
-address: "16 Nexus Way, Southport, QLD 4213, AUSTRALIA"
+address1: "16 Nexus Way, Southport, QLD 4213, AUSTRALIA"
 summary: "SecureStack is a software supply chain security SaaS-based platform. SecureStack was founded in 2017 and is headquartered on the Gold Coast.  Our comprehensive application security platform automates security for our customers source code, cloud resources and web endpoints with an easy to use SaaS platform."
 ---
 ## Who we are

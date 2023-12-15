@@ -1,5 +1,6 @@
 ---
 title: "Shogun Cybersecurity Pty Ltd"
+Country1: Australia
 image: "images/company_logos/shogun.png"
 services:
 - Security Consulting
@@ -10,7 +11,7 @@ linkedin:
 youtube: 
 github: 
 website: "https://shogun.net.au/"
-address: "49 Chetwynd St, North Melbourne, Vic, 3051"
+address1: "49 Chetwynd St, North Melbourne, Vic, 3051"
 summary: "Shogun Cybersecurity is an independent, Melbourne based consultancy founded in 2015 by consummate problem solver and outspoken industry personality, Corch. We work with organisations of all sizes, but are best known for our focus on supporting small and mid-sized clients, including not-for-profits, professional associations, and scale-ups." 
 ---
 ## Who we are

@@ -1,5 +1,7 @@
 ---
 title: "Cosive Pty Ltd"
+Country1: Australia
+Country2: New Zealand
 headquarters: VIC
 products:
 - Fraud Prevention
@@ -32,7 +34,8 @@ youtube: cosive
 github: Cosive
 website: "https://www.cosive.com"
 image: "images/company_logos/cosive.png"
-address: "level 10, Tower 4, World Trade Centre, 611 Flinders St, Docklands, VIC"
+address1: "level 10, Tower 4, World Trade Centre, 611 Flinders St, Docklands, VIC"
+address2: "Level 2, 142 Broadway, Newmarket, Auckland"
 summary: "We provide repeatable solutions to Australasia's toughest security challenges. ​Our customers are high-profile targets with the toughest security challenges imaginable: four of the top six banks in Australia, critical infrastructure providers, technology companies, and governments."
 ---
 ## Who we are

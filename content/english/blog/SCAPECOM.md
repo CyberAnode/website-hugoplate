@@ -1,5 +1,6 @@
 ---
 title: "SCAPECOM IT Security Solutions"
+Country1: Australia
 headquarters: VIC
 products:
 - Breach & Attack Simulation
@@ -11,7 +12,7 @@ github:
 facebook: 
 image: "images/company_logos/ATTACKIFY_Logo.png"
 website: "https://www.attackify.com"
-address: 
+address1: 
 summary: "SCAPECOM is a team of experienced, independent cybersecurity researchers based in Melbourne, Australia (the team behind ATTACKIFY). With a passion for building and breaking all things cyber, our team is dedicated to staying ahead of the curve and helping organisations stay safe and secure in an ever-changing digital landscape."
 ---
 

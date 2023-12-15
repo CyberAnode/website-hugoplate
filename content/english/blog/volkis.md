@@ -1,5 +1,6 @@
 ---
 title: "Volkis Pty Ltd"
+Country1: Australia
 headquarters: "NSW"
 image: "images/company_logos/Volkis_Logo.png"
 services:
@@ -13,7 +14,7 @@ linkedin:
 youtube: 
 github: 
 website: "https://www.volkis.com.au"
-address: "PO Box 55, Crows Nest NSW 1585"
+address1: "PO Box 55, Crows Nest NSW 1585"
 summary: "We're a group of hackers who want to keep those around us safe in the online world by doing what we love. With bespoke penetration tests and red teams, we aim to protect our friends, community, clients, and their customers, so that they can keep doing what they love. We focus on our niche rather than full stack security, so we can help clients get a measurable increase in security against realistic attacks, instead of theoretical scenarios."
 ---
 ## Who we are

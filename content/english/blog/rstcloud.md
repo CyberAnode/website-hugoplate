@@ -1,5 +1,6 @@
 ---
 title: "RST Cloud"
+Country1: Australia
 headquarters: "NSW"
 products:
 - Threat Intelligence
@@ -11,7 +12,7 @@ youtube: "rst-cloud"
 github: rstcloud
 facebook: "rstcloud.online"
 website: "https://www.rstcloud.com/"
-address: "60 Martin Place, Sydney NSW 2000"
+address1: "60 Martin Place, Sydney NSW 2000"
 image: "images/company_logos/rstcloud.png"
 ---
 

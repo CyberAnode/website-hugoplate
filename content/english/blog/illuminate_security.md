@@ -1,5 +1,6 @@
 ---
 title: "Illuminate Security Pty Ltd"
+Country1: Australia
 image: "images/company_logos/illuminate_security.png"
 headquarters: NSW
 products: [
@@ -11,7 +12,7 @@ linkedin:
 youtube: 
 github: 
 website: "https://www.illuminatesecurity.com"
-address: "PO Box 470 Concord NSW 2137"
+address1: "PO Box 470 Concord NSW 2137"
 summary: "We are the pioneers in community powered managed detection & response services. Through detection bounty programs your organisation can achieve scalable, reliable, effective and sustainable cyber threat detection capabilities."
 ---
 

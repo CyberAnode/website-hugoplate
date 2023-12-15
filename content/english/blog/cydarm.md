@@ -1,5 +1,6 @@
 ---
 title: "Cydarm Technologies Pty Ltd"
+Country1: Australia
 headquarters: VIC
 image: "images/company_logos/cydarm_light.png"
 products:
@@ -10,7 +11,7 @@ linkedin:
 youtube: 
 github: 
 website: "https://www.cydarm.com/"
-address: "121 King St, Melbourne"
+address1: "121 King St, Melbourne"
 summary: "Cydarm is an Australian developed and supported software platform for collaborative Cyber Case and Incident Management. Cydarm's focus is on giving SOC staff the most friction-free case handling experience, and better collaboration with other stakeholder groups."
 ---
 
