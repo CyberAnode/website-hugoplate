@@ -8,8 +8,12 @@
   {{ . }}
 </li>
 {{ end }}
+<!-- This is probably better done with css but yet, here we are
+Adding spacing after the list-->
+<br><br>
 {{ end }}
-</li>
+
+
 
 <!-- services -->
 {{ $services:= .Params.services }}
@@ -21,13 +25,15 @@
   {{ . }}
 </li>
 {{ end }}
+<!-- This is probably better done with css but yet, here we are
+Adding spacing after the list-->
+<br><br>
 {{ end }}
-</li>
 
 <!-- partners -->
 {{ $partners:= .Params.partners }}
 {{ if $partners }}
-<h5 class="mb-6">Partner companies</h5>
+<h5 class="mb-6">Partner Companies</h5>
 {{ range $i,$p:= $partners }}
 <li class="inline-block">
   <i class="fas fa-caret-right mr-2"></i>
